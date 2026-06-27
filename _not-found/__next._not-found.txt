@@ -1,0 +1,4 @@
+1:"$Sreact.fragment"
+2:I[39756,["/medvista-clinic/_next/static/chunks/c88928b64c4daf5c.js","/medvista-clinic/_next/static/chunks/08e8f66297d66253.js","/medvista-clinic/_next/static/chunks/d2be314c3ece3fbe.js"],"default"]
+3:I[37457,["/medvista-clinic/_next/static/chunks/c88928b64c4daf5c.js","/medvista-clinic/_next/static/chunks/08e8f66297d66253.js","/medvista-clinic/_next/static/chunks/d2be314c3ece3fbe.js"],"default"]
+0:{"buildId":"hgIZPP-qaG1gfU-LsANDE","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
